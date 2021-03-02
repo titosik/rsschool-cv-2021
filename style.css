@@ -14,3 +14,13 @@ body {
     text-rendering: optimizeLegibility;
     overflow-x: hidden;
 }
+ul {
+    padding-left: 40px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+ }
+
+ .content {
+    width: 800px;
+    margin: 0 auto;
+ }
