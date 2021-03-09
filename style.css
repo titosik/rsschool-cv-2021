@@ -80,11 +80,11 @@ h2 {
 
 section {
     width: 800px;
-    height: 140px;
+    height: 120px;
     float: right;
-    margin-top: 50px;
+    margin-top: 30px;
     display: inline-block;
-    padding: 10px 35px;
+    padding: 10px 10px;
     font-weight: 300;
     text-decoration: none;
     border-radius: 0px;
@@ -96,21 +96,23 @@ section {
 }
 
 .profile {
-    position: absolute;
+    position: fixed;
     width: 550px;
     top: 23%;
-    left: 49%;
+    left: 43%;
     transform: translate(-10%, -10%);
     text-align: justify;
     margin: 0 auto;
     padding-top: 11%;
     font-size: 80%;
-
 }
 
 h3 {
     color: #fe504f;
+}
 
+h4 {
+    display: inline;
 }
 
 .row  {
@@ -148,4 +150,5 @@ footer {
 
 
 }
+
 
