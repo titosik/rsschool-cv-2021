@@ -15,9 +15,12 @@ html {
   max-width: 1140px;
   margin: 0 auto;
 }
+body {
+background-image: url("rsschool-cv/imgOlga.jpg");
+}
 
 header {
-  background-image: url("rsschool-cv/rsschool-cv/resources/css/img/imgOlga.jpeg");
+  background-image: url("rsschool-cv/imgOlga.jpg");
   background-size: cover;
   background-position: top;
   width: 1140px;
