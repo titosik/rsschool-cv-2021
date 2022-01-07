@@ -17,7 +17,7 @@ html {
 }
 
 header {
-  background-image: url("./imgOlga.jpg");
+  background-image: url(/imgOlga.jpg);
   background-size: cover;
   background-position: top;
   width: 1140px;
