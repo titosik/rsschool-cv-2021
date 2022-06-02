@@ -8,7 +8,8 @@ My passion is to create aesthetic and commercial solutions together with talente
 
 - Languages:
   - Russian Native
-  - English Intermediate
+  - English B1
+  - Greek A1
 
 
 Experience:
